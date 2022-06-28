@@ -1,6 +1,6 @@
 module.exports = {
-	name: "All pages", // optional, falls back to object key
-	description: "All pages together",
+	name: "All templatedeck.com sites", // optional, falls back to object key
+	description: "All templatedeck.com sites together",
 	options: {
 		frequency: 60 * 23, // (in minutes), 23 hours
 	},
